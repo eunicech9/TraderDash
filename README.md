@@ -16,7 +16,7 @@ From our interviews, we then charted out an empathy map and developed a persona 
 As we developed the features, we also ensured that our platform was viable in the market. We did extensive product research and compatibility to see where the USP of our product lies. 
 
 # Phase 2: Development & Test
-To develop trading algorithms, Python libraries like vectorbt and fastquant were used to run the backtesting and optimize the strategy respectively. All the strategies were backtested using at least 2 years of historical data to train adn optimise the strategy. We then run the backtest result for each strategy per stock in the user's watchlist with a capital of $1,000 for the last 90 days. These results are then illustrated as individual strategy-stock ideas in our Opportunities and Backtesting page. 
+To develop trading algorithms, Python libraries like vectorbt and fastquant were used to run the backtesting and optimize the strategy respectively. All the strategies were backtested using at least 2 years of historical data to train and optimise the strategy. We then run the backtest result for each strategy per stock in the user's watchlist with a capital of $1,000 for the last 90 days. These results are then illustrated as individual strategy-stock ideas in our Opportunities and Backtesting page. 
 
 We also adopted Modern Portfolio Theory to find the maximum risk adjusted returns (measured by Sharpe Ratio) and lowest risk (measured by standard deviation) in the portfolio with the optimal mix of weights for respective shares to achieve these two objectives. This is illustrated as recommended weights and an efficient frontier graph in our Portfolio-Test Rebalancing page.
 
