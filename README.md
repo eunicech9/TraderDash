@@ -1,5 +1,6 @@
 # TraderDash
 Portfolio Management and Algotrading Dashboard
+
 Demo Video: https://www.youtube.com/watch?v=LJqdIFPlqe8
 ![image](https://user-images.githubusercontent.com/83811972/145789560-d0e63bca-36a9-4660-b205-d6cd0cfe81b4.png)
 
