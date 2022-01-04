@@ -25,7 +25,7 @@ At this stage, we focused on trading equities as it is the financial instrument 
 # Phase 3: Deployment
 To make TraderDash functional, we integrated portfolio visualisation, dashboard and reports using Power BI combined with a library of algo-trading strategies available for our users. Our platform applies this library of algo-trading strategies to the stocks in the users’ watchlists and open portfolio stocks, and recommends the best strategy-stock idea for the user to take action.
 
-Our prototype is connected to API sources, news and public data to provide timely and summarized information needed for users to take timely action. It offers recommended weights of assets in the portfolio to meet the users’ required needs.
+Our prototype is connected to API sources for financial data (Twelve Data and Alpha Vantage), news (Polygon) and public data to provide timely and summarized information needed for users to take timely action. It offers recommended weights of assets in the portfolio to meet the users’ required needs.
 
 Our product is currently available on Power BI, with plans to make it available on web interface and mobile application so that it can be easily accessible to users.
 
